@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task-out.main" target="11" />
+      <module name="Cinema_Room_Manager.Cinema_Room_Manager-task.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Edit_it.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Equivalent.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Fill_in_the_type.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Find_equivalent.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-How_to_declare_a_type.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Statements__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-The_form_of_declaration_without_type_inference.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-Type_mismatch__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Data_types-What_is_type_inference.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Declaring_Long.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Good_rest_on_vacation.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Underscore__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Backslash_problem.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Creating_regexes.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Different_colo_u_rs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Escapism.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Help_the_teacher.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Matching_pattern.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Rings_of_Power.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Regexps-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Amount_on_the_account.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Correct_the_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-First,_second,_third.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-From_0_to_9.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-We_need_to_learn_Kotlin.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-What_does_the_code_print.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Standard_output-What_does_the_program_print.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Crash_a_program.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_arithmetic_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_number_format_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Handle_string_exception.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Practice.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Taming_exceptions-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Braking_distance.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Choose_the_correct_option.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Complex_handling.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Finalizing.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Parting_words.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-The_Answer_is.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-The_finally_block.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch-finally_statement-Using_as_expressions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Converter_to_Double.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_code.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Correct_statements.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Exception_message.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Handling_strings.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Integer_division.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-The_try-catch_statement-Usage.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Cutting_the_fraction.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Existing_functions.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Lie_detector.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Simple_converter.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Sum_of_Longs.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-The_superior_forces_of_the_Empire.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Theory.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Where_is_the_type_overflow_possible.main" target="11" />
+      <module name="Cinema_Room_Manager.Topics-Type_conversion-Where_is_the_type_overflow_possible__1_.main" target="11" />
+      <module name="Cinema_Room_Manager.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
